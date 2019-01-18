@@ -15,13 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="12-7.c">
+    <ClCompile Include="12-도전3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-2-연습문제3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-2-연습문제5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12-3.c">
@@ -34,6 +40,30 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12-6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-도전1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-도전2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12-1-연습문제5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

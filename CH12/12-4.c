@@ -1,5 +1,17 @@
 #include <stdio.h>
 
+int main(void) {
+
+	char str[80];
+
+	printf("공백이 포함된 문자열 입력: ");
+	gets(str);
+	printf("입력한 문자열은 %s입니다.", str);
+
+	return 0;
+
+}
+/*get 함수와 같은 함수
 void my_gets(char *ps) {
 	//주소값에 문자를 하나씩 가져오기
 	char ch;
@@ -26,3 +38,4 @@ int main(void) {
 	return 0;
 
 }
+*/
